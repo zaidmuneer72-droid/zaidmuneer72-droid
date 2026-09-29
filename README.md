@@ -40,8 +40,8 @@ I enjoy turning real-world problems into software solutions and continuously imp
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaidmuneer72-droid&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidmuneer72-droid&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="160">
+  <img src="https://github-readme-stats.shion.dev/api?username=zaidmuneer72-droid&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zaidmuneer72-droid&theme=dark&hide_border=true&layout=compact" alt="Top languages" height="160">
 </p>
 
 ## Connect
